@@ -1,7 +1,7 @@
 # Ocean Acidification
 
 ## A note:
-This is the OCEAN215 final project from Liuyixin Shao. It's written in google Colab. Among them, the `Copy of Copy of Final.ipynb` is the code for the final analysis, the `Ocean 215 final slide.pptx` is the slides with the final analysis of my data, and the `final_project_data.csv` is the data I used for the analysis.
+This is the OCEAN215 final project from Liuyixin Shao. It's written in google Colab. Among them, the `Final Code.ipynb` is the code for the final analysis, the `Ocean 215 final slide.pptx` is the slides with the final analysis of my data, and the `final_project_data.csv` is the data I used for the analysis.
 
 ## Introduction:
 Ocean acidification is the reduction in the pH value of the Earth’s ocean. The cause of ocean acidification is clear: carbon pollution released by burning fossil fuels, making oceans absorb more CO2 from the atmosphere and format more carbonic acid. 
